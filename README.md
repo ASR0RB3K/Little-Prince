@@ -22,5 +22,5 @@ Given the milky way map with coordinates of planetary systems, **starting & dest
 
 ### For each test case, print the minimum number of times the little prince must enter/exit the planetary system.
 
-![2](litlle.png)
+![2](little.png)
 
