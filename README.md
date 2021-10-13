@@ -1,3 +1,5 @@
+![](bg4gh6scs09ivjnp9ax5.webp)
+
 ## The Little Prince
 
  - The Little Prince, who lives on asteroid B-664, loves Rose. One day, the little prince, learning that Rose was in danger, began a long journey through the Milky Way to save Rose. However, the little prince's spaceship is not that good, so Little Price has to avoid planetary systems (gravitational fields) as much as possible on his way. The picture below is a part of the Milky Way map traveled by the little prince.
